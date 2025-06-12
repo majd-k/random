@@ -1,0 +1,19 @@
+{
+  "name": "mizan",
+  "version": "1.0.0",
+  "description": "Mizān - Academic workload management app",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["nextjs", "workload", "students", "instructors"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "14.1.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  }
+}
